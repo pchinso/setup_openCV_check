@@ -6,4 +6,4 @@ https://www.geeksforgeeks.org/using-mkvirtualenv-to-create-new-virtual-environme
 
 ## OpenCV university
 
-[OpenCV Bootcamp](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/)
+[OpenCV Bootcamp](<https://courses.opencv.org/courses/course-v01:OpenCV+Bootcamp+CV0/course/>)
