@@ -3,5 +3,4 @@
 https://www.geeksforgeeks.org/using-mkvirtualenv-to-create-new-virtual-environment-python/
 
 ## OpenCV university
-yN*3@e7JTf^E4umv1#
-
+[OpenCV Bootcamp](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/)
