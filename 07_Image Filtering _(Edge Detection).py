@@ -41,7 +41,7 @@ while alive:
         frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         corners = cv2.goodFeaturesToTrack(frame_gray, **feature_params)
         if corners is not None:
-            for x, y in numpy.float32(corners).reshape(-1, 2):
+            for x, y in numpy.int_(corners).reshape(-1, 2):
                 cv2.circle(result, (x, y), 10, (0, 255, 0), 1)
 
     cv2.imshow(win_name, result)
