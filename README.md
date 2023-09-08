@@ -1,8 +1,10 @@
 # How to setup Ubuntu OpenCv Dev Environment
 
+[How to Install OpenCV on Ubuntu 20.04]( "https://vegastack.com/tutorials/how-to-install-opencv-on-ubuntu-20-04/")
+
 ## How to use mkvirtualenv
 
-https://www.geeksforgeeks.org/using-mkvirtualenv-to-create-new-virtual-environment-python/
+[Using mkvirtualenv](https://www.geeksforgeeks.org/using-mkvirtualenv-to-create-new-virtual-environment-python/)
 
 ## OpenCV university
 
@@ -21,3 +23,5 @@ https://www.geeksforgeeks.org/using-mkvirtualenv-to-create-new-virtual-environme
 [Day 2](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/courseware/457799bde2064b749df7fb0c0a741b5f/ae5729404790443cbd46f4234e0cd46b/?child=first)
 
 * [ ] 06_Writing_Video_using_OpenCV.ipynb
+
+Q
