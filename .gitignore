@@ -8,3 +8,6 @@
 # Video Files
 *.mp4
 *.avi
+
+# Model
+model/pose_iter_160000.caffemodel
