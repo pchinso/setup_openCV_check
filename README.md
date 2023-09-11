@@ -25,5 +25,10 @@
 
 [Day 3](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/courseware/457799bde2064b749df7fb0c0a741b5f/2b6a3055674f413b9540fe7adb19bd91/?child=first)
 
-* [ ] [continue](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/courseware/457799bde2064b749df7fb0c0a741b5f/2b6a3055674f413b9540fe7adb19bd91/?child=first)
-* [ ] HDR
+* [ ] 08_Image_Alignment
+* [ ] 09_panorama
+* [ ] 10_hdr
+* [ ] 11_objectTracking
+* [ ] 12_Face_Detection
+* [ ] 13_tf_object_detection
+* [ ] 14_OpenPose
